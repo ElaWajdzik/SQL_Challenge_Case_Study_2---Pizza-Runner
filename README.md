@@ -125,5 +125,3 @@ This case study includes questions about:
  # <p align="center"> Thank you for your attention! 🫶️
 
 **Thank you in advance for reading.** If you have any comments on my work, please let me know. My email address is ela.wajdzik@gmail.com.
-
-Additionally, I am open to new work opportunities. If you are looking for someone with my skills (or know of someone who is), I would be grateful for any information.
