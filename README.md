@@ -111,12 +111,12 @@ topping_id | topping_name
 
 ## Case Study Questions
 This case study includes questions about:
-- [Database cleaning process]()
+- [Database cleaning process](https://github.com/ElaWajdzik/SQL_Challenge_Case_Study_2---Pizza-Runner/blob/main/Cleaning%20Process%20and%20E.%20Bonus%20Questions.md#-database-cleaning-process)
 - [A. Pizza Metrics](https://github.com/ElaWajdzik/SQL_Challenge_Case_Study_2---Pizza-Runner/blob/main/A.%20Pizza%20Metrics.md)
 - [B. Runner and Customer Experience](https://github.com/ElaWajdzik/SQL_Challenge_Case_Study_2---Pizza-Runner/blob/main/B.%20Runner%20and%20Customer%20Experience.md)
 - [C. Ingredient Optimisation](https://github.com/ElaWajdzik/SQL_Challenge_Case_Study_2---Pizza-Runner/blob/main/C.%20Ingredient%20Optimisation.md)
 - [D. Pricing and Ratings](https://github.com/ElaWajdzik/SQL_Challenge_Case_Study_2---Pizza-Runner/blob/main/D.%20Pricing%20and%20Ratings.md)
-- [E. Bonus DML Challenges (DML = Data Manipulation Language)]()
+- [E. Bonus DML Challenges (DML = Data Manipulation Language)](https://github.com/ElaWajdzik/SQL_Challenge_Case_Study_2---Pizza-Runner/blob/main/Cleaning%20Process%20and%20E.%20Bonus%20Questions.md#-database-cleaning-process)
 
 <br/>
 
