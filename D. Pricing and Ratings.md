@@ -166,3 +166,11 @@ PRINT @v_revenue - @v_cost
 
 #### Result:
 $94,44
+
+
+<br></br>
+***
+
+Thank you for your attention! 🫶️
+
+[Return to README ➔](https://github.com/ElaWajdzik/SQL_Challenge_Case_Study_2---Pizza-Runner/blob/main/README.md)

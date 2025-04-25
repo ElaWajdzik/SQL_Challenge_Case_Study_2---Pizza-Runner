@@ -162,3 +162,14 @@ GROUP BY runner_id;
 ![Zrzut ekranu 2024-09-23 150613](https://github.com/user-attachments/assets/2f8eda6b-7511-4e6a-ae71-0abd2d9eb05b)
 
 The first runner (runner_id = 1) has the highest success rate in delivering food.
+
+
+<br></br>
+***
+
+Thank you for your attention! 🫶️
+
+[Next Section: *Ingredient Optimisation* ➔](https://github.com/ElaWajdzik/SQL_Challenge_Case_Study_2---Pizza-Runner/blob/main/C.%20Ingredient%20Optimisation.md)
+
+[Return to README ➔](https://github.com/ElaWajdzik/SQL_Challenge_Case_Study_2---Pizza-Runner/blob/main/README.md)
+

@@ -215,3 +215,13 @@ ORDER BY SUM(number) DESC;
 ![Zrzut ekranu 2024-09-23 165448](https://github.com/user-attachments/assets/37d269a5-b2b7-4dae-9058-bb254eaf3eee)
 
 The most common ingrediont is bacon. Customers of Pizza Runner seem to like becon on their pizza (it was also the most popular extra added). Creating a new kind of pizza with backon could be a good move for the business.
+
+<br></br>
+***
+
+Thank you for your attention! 🫶️
+
+[Next Section: *Pricing and Ratings* ➔](https://github.com/ElaWajdzik/SQL_Challenge_Case_Study_2---Pizza-Runner/blob/main/D.%20Pricing%20and%20Ratings.md)
+
+[Return to README ➔](https://github.com/ElaWajdzik/SQL_Challenge_Case_Study_2---Pizza-Runner/blob/main/README.md)
+

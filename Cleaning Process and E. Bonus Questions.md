@@ -161,3 +161,13 @@ SELECT
 FROM pizza_toppings;
 ````
 
+
+<br></br>
+***
+
+Thank you for your attention! 🫶️
+
+[Next Section: *Pizza Metrics* ➔](https://github.com/ElaWajdzik/SQL_Challenge_Case_Study_2---Pizza-Runner/blob/main/A.%20Pizza%20Metrics.md)
+
+[Return to README ➔](https://github.com/ElaWajdzik/SQL_Challenge_Case_Study_2---Pizza-Runner/blob/main/README.md)
+

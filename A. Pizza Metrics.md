@@ -258,3 +258,13 @@ GROUP BY DATEPART(WEEKDAY, order_time);
 | 4       | 2                |
 | 5       | 1                |
 | 6       | 2                |
+
+<br></br>
+***
+
+Thank you for your attention! 🫶️
+
+[Next Section: *Runner and Customer Experience* ➔](https://github.com/ElaWajdzik/SQL_Challenge_Case_Study_2---Pizza-Runner/blob/main/B.%20Runner%20and%20Customer%20Experience.md)
+
+[Return to README ➔](https://github.com/ElaWajdzik/SQL_Challenge_Case_Study_2---Pizza-Runner/blob/main/README.md)
+
