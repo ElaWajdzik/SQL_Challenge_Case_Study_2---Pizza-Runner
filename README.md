@@ -120,7 +120,6 @@ This case study includes questions about:
 
 <br/>
 
-*** 
 
  # <p align="center"> Thank you for your attention! 🫶️
 
